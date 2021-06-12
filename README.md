@@ -9,5 +9,3 @@ Languages known:
 I’m currently learning:
 - C++ (introductory course completed)
 - Go (introductory course completed)
-
-The best way to reach me is by email at euanwilkinson62@gmail.com.
