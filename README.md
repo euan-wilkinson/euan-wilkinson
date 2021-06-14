@@ -9,3 +9,5 @@ Languages known:
 I’m currently learning:
 - C++ (introductory course completed)
 - Go (introductory course completed)
+
+If you're looking for the artefact from my Final Year Project, it can be accessed by downloading the Expo Go app and following this link: exp://exp.host/@euan-wilkinson/proto2
