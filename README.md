@@ -2,8 +2,8 @@ Hi, I’m @euan-wilkinson. I'm a graduate software engineer from Bournemouth Uni
 
 Languages known: 
 - Java (2 yrs)
-- Python (1 yr)
 - JavaScript, particularly for React Native (1.5 yrs)
+- Python (1 yr)
 - C# (6 months)
 
 I’m currently working on:
