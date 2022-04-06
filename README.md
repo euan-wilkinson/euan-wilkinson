@@ -7,7 +7,7 @@ Languages known:
 - C# (6 months)
 
 I’m currently working on:
-- C# with Unity
+- Learning C# & Unity for game developmnent.
 
 If you're looking for the artefact from my Final Year Project, it can be accessed by downloading the Expo Go app and following this link: exp://exp.host/@euan-wilkinson/proto2
 
