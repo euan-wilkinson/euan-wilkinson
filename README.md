@@ -6,8 +6,7 @@ Languages known:
 - Python (1 yr)
 - C# (6 months)
 
-I’m currently working on:
-- Learning C# & Unity for game developmnent.
+I’m currently working on learning C# & Unity for game development.
 
 If you're looking for the artefact from my Final Year Project, it can be accessed by downloading the Expo Go app and following this link: exp://exp.host/@euan-wilkinson/proto2
 
