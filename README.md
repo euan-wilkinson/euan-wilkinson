@@ -8,6 +8,4 @@ Languages known:
 
 I’m currently working on learning C# & Unity for game development.
 
-If you're looking for the artefact from my Final Year Project, it can be accessed by downloading the Expo Go app and following this link: exp://exp.host/@euan-wilkinson/proto2
-
 You can find more about me on LinkedIn here: https://www.linkedin.com/in/euan-wilkinson-037550172/
